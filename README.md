@@ -19,7 +19,8 @@
 ## 本地运行
 
 ```bash
-cd 羊了个羊
+git clone https://github.com/zhaoyijia-web/yang-le-ge-yang.git
+cd yang-le-ge-yang
 python3 -m http.server 8000
 ```
 
